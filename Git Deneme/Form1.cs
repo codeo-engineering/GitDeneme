@@ -21,5 +21,10 @@ namespace Git_Deneme
         {
             MessageBox.Show("Base Button");
         }
+
+        private void gulserButton_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Gulser");
+        }
     }
 }
